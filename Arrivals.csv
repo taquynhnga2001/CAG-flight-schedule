@@ -1,0 +1,460 @@
+Date,Time,Flight Number,Airlines Name,Airport Name,Terminal,Boarding info,Status
+04/04/2024,00:05,5J803,Cebu Pacific Air,Manila (MNL),T4,,On Schedule
+04/04/2024,00:10,MH609,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,00:15,SQ208,Singapore Airlines,Melbourne (MEL),,,On Schedule
+04/04/2024,00:20,3K538,Jetstar Asia,Phuket (HKT),T4,,On Schedule
+04/04/2024,00:20,JL711,Japan Airlines,Tokyo (Narita) (NRT),T1,,On Schedule
+04/04/2024,00:20,SQ242,Singapore Airlines,Sydney (SYD),,,On Schedule
+04/04/2024,00:20,SQ947,Singapore Airlines,Bali-Denpasar (DPS),,,On Schedule
+04/04/2024,00:25,5J547,Cebu Pacific Air,Cebu (CEB),T4,,On Schedule
+04/04/2024,00:30,SQ835,Singapore Airlines,Shanghai (PVG),,,On Schedule
+04/04/2024,00:35,CX715,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,00:35,SQ719,Singapore Airlines,Bangkok (Suvarnabhumi) (BKK),,,On Schedule
+04/04/2024,00:40,CI755,China Airlines,Taipei (TPE),T3,,On Schedule
+04/04/2024,00:40,TR973,Scoot,Hong Kong (HKG),T1,,On Schedule
+04/04/2024,00:45,3K514,Jetstar Asia,Bangkok (Suvarnabhumi) (BKK),T4,,On Schedule
+04/04/2024,00:45,NH801,All Nippon Airways,Tokyo (Narita) (NRT),T2,,On Schedule
+04/04/2024,00:45,TW171,T'way Air,Seoul (ICN),T3,,On Schedule
+04/04/2024,01:00,TR113,Scoot,Nanchang (KHN),T1,,On Schedule
+04/04/2024,01:15,SQ11,Singapore Airlines,Los Angeles (LAX),,,On Schedule
+04/04/2024,01:20,3K766,Jetstar Asia,Manila (MNL),T4,,On Schedule
+04/04/2024,01:45,6E1007,IndiGo,Tiruchirappalli (TRZ),T2,,On Schedule
+04/04/2024,01:55,MU2669,China Eastern Airlines,Nanjing (NKG),T3,,On Schedule
+04/04/2024,02:50,TK169,Turkish Airlines,Melbourne (MEL),T1,,On Schedule
+04/04/2024,02:50,TR387,Scoot,Clark (CRK),T1,,On Schedule
+04/04/2024,03:05,CZ8489,China Southern Airlines,Guangzhou (CAN),T1,,On Schedule
+04/04/2024,03:15,6E1015,IndiGo,Kolkata (CCU),T2,,On Schedule
+04/04/2024,03:15,TR17,Scoot,Perth (PER),T1,,On Schedule
+04/04/2024,03:40,6E1001,IndiGo,Chennai (MAA),T2,,On Schedule
+04/04/2024,03:45,TR189,Scoot,Hangzhou (HGH),T1,,On Schedule
+04/04/2024,04:05,TR513,Scoot,Amritsar (ATQ),T1,,On Schedule
+04/04/2024,04:30,6E1005,IndiGo,Bengaluru (BLR),T2,,On Schedule
+04/04/2024,04:40,BS307,US-Bangla Airlines,Dhaka (DAC),T3,,On Schedule
+04/04/2024,04:40,SQ623,Singapore Airlines,Osaka (KIX),,,On Schedule
+04/04/2024,04:55,SQ635,Singapore Airlines,Tokyo (Haneda) (HND),,,On Schedule
+04/04/2024,05:00,KE647,Korean Air,Seoul (ICN),T4,,On Schedule
+04/04/2024,05:00,SQ391,Singapore Airlines,Istanbul (IST),,,On Schedule
+04/04/2024,05:05,SQ605,Singapore Airlines,Seoul (ICN),,,On Schedule
+04/04/2024,05:20,FJ363,Fiji Airways,Nadi (NAN),T1,,On Schedule
+04/04/2024,05:25,MU543,China Eastern Airlines,Shanghai (PVG),T3,,On Schedule
+04/04/2024,05:30,CX659,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,05:30,SQ218,Singapore Airlines,Melbourne (MEL),,,On Schedule
+04/04/2024,05:30,SQ23,Singapore Airlines,New York (John F Kennedy) (JFK),,,Confirmed 05:30
+04/04/2024,05:30,SQ305,Singapore Airlines,London (Heathrow) (LHR),,,On Schedule
+04/04/2024,05:40,SQ33,Singapore Airlines,San Francisco (SFO),,,Confirmed 05:33
+04/04/2024,05:45,SQ246,Singapore Airlines,Brisbane (BNE),,,On Schedule
+04/04/2024,05:55,SQ323,Singapore Airlines,Amsterdam (AMS),,,On Schedule
+04/04/2024,05:55,SQ345,Singapore Airlines,Zurich (ZRH),,,On Schedule
+04/04/2024,05:55,SQ825,Singapore Airlines,Shanghai (PVG),,,On Schedule
+04/04/2024,06:00,SQ365,Singapore Airlines,Rome (FCO),,,On Schedule
+04/04/2024,06:00,TR897,Scoot,Seoul (ICN),T1,,On Schedule
+04/04/2024,06:05,SQ335,Singapore Airlines,Paris (CDG),,,On Schedule
+04/04/2024,06:05,SQ447,Singapore Airlines,Dhaka (DAC),,,On Schedule
+04/04/2024,06:05,SQ535,Singapore Airlines,Kochi (COK),,,On Schedule
+04/04/2024,06:10,SQ403,Singapore Airlines,New Delhi (DEL),,,On Schedule
+04/04/2024,06:10,SQ479,Singapore Airlines,Cape Town (CPT),,,On Schedule
+04/04/2024,06:10,SQ511,Singapore Airlines,Bengaluru (BLR),,,On Schedule
+04/04/2024,06:10,SQ523,Singapore Airlines,Hyderabad (HYD),,,On Schedule
+04/04/2024,06:10,SQ529,Singapore Airlines,Chennai (MAA),,,On Schedule
+04/04/2024,06:15,JL35,Japan Airlines,Tokyo (Haneda) (HND),T1,,On Schedule
+04/04/2024,06:15,TR531,Scoot,Trivandrum (TRV),T1,,On Schedule
+04/04/2024,06:20,SQ517,Singapore Airlines,Kolkata (CCU),,,On Schedule
+04/04/2024,06:20,SQ801,Singapore Airlines,Beijing (Capital) (PEK),,,On Schedule
+04/04/2024,06:20,TR121,Scoot,Wuhan (WUH),T1,,On Schedule
+04/04/2024,06:25,SQ351,Singapore Airlines,Copenhagen (CPH),,,On Schedule
+04/04/2024,06:25,TR587,Scoot,Visakhapatnam (VTZ),T1,,On Schedule
+04/04/2024,06:30,CA975,Air China,Beijing (Capital) (PEK),T1,,On Schedule
+04/04/2024,06:30,SQ441,Singapore Airlines,Kathmandu (KTM),,,On Schedule
+04/04/2024,06:30,SQ853,Singapore Airlines,Guangzhou (CAN),,,On Schedule
+04/04/2024,06:35,SQ216,Singapore Airlines,Perth (PER),,,On Schedule
+04/04/2024,06:35,TR541,Scoot,Coimbatore (CJB),T1,,On Schedule
+04/04/2024,06:40,NH843,All Nippon Airways,Tokyo (Haneda) (HND),T2,,On Schedule
+04/04/2024,06:40,NZ282,Air New Zealand,Auckland (AKL),T3,,On Schedule
+04/04/2024,06:45,UA1,United Airlines,San Francisco (SFO),T2,,On Schedule
+04/04/2024,06:50,SQ25,Singapore Airlines,New York (John F Kennedy) (JFK),,,On Schedule
+04/04/2024,06:55,TR565,Scoot,Tiruchirappalli (TRZ),T1,,On Schedule
+04/04/2024,07:00,SQ327,Singapore Airlines,Munich (MUC),,,On Schedule
+04/04/2024,07:05,SQ437,Singapore Airlines,Male (MLE),,,On Schedule
+04/04/2024,07:10,AC19,AIR CANADA,Vancouver (YVR),T2,,Confirmed 07:09
+04/04/2024,07:15,AK701,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,07:15,SB740,Aircalin,Noumea (NOU),T3,,On Schedule
+04/04/2024,07:20,SQ377,Singapore Airlines,Barcelona (BCN),,,On Schedule
+04/04/2024,07:20,SQ469,Singapore Airlines,Colombo (CMB),,,On Schedule
+04/04/2024,07:25,SQ861,Singapore Airlines,Shenzhen (SZX),,,On Schedule
+04/04/2024,07:30,AI380,Air India,New Delhi (DEL),T2,,On Schedule
+04/04/2024,07:30,SQ317,Singapore Airlines,London (Heathrow) (LHR),,,On Schedule
+04/04/2024,07:30,SQ495,Singapore Airlines,Dubai (DXB),,,On Schedule
+04/04/2024,07:40,SQ423,Singapore Airlines,Mumbai (BOM),,,On Schedule
+04/04/2024,07:40,SQ51,Singapore Airlines,Houston (IAH),,,On Schedule
+04/04/2024,07:40,TR457,Scoot,Kuala Lumpur (KUL),T1,,On Schedule
+04/04/2024,07:50,AI342,Air India,Mumbai (BOM),T2,,On Schedule
+04/04/2024,07:50,SQ37,Singapore Airlines,Los Angeles (LAX),,,Confirmed 07:39
+04/04/2024,08:10,SQ951,Singapore Airlines,Jakarta (CGK),,,On Schedule
+04/04/2024,08:15,AI392,Air India,Bengaluru (BLR),T2,,On Schedule
+04/04/2024,08:15,EK405,Emirates,Melbourne (MEL),T1,,On Schedule
+04/04/2024,08:15,TR579,Scoot,Chennai (MAA),T1,,On Schedule
+04/04/2024,08:15,UK115,Vistara,New Delhi (DEL),T3,,On Schedule
+04/04/2024,08:20,SQ537,Singapore Airlines,Kochi (COK),,,On Schedule
+04/04/2024,08:20,TR721,Scoot,Berlin (BER),T1,,On Schedule
+04/04/2024,08:30,AK703,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,08:30,IX688,Air India Express,Chennai (MAA),T2,,On Schedule
+04/04/2024,08:30,TR563,Scoot,Tiruchirappalli (TRZ),T1,,On Schedule
+04/04/2024,08:45,AF182,Air France,Paris (CDG),T1,,On Schedule
+04/04/2024,08:45,TK208,Turkish Airlines,Istanbul (IST),T1,,On Schedule
+04/04/2024,08:50,EK404,Emirates,Dubai (DXB),T1,,On Schedule
+04/04/2024,09:00,QR942,Qatar Airways,Doha (DOH),T1,,On Schedule
+04/04/2024,09:15,UK105,Vistara,Mumbai (BOM),T3,,On Schedule
+04/04/2024,09:20,OD801,Batik Air Malaysia,Kuala Lumpur (KUL),T3,,On Schedule
+04/04/2024,09:25,5J813,Cebu Pacific Air,Manila (MNL),T4,,On Schedule
+04/04/2024,09:25,QG522,Citilink,Jakarta (CGK),T3,,On Schedule
+04/04/2024,09:30,FY3670,Firefly,Penang (PEN),T2,,On Schedule
+04/04/2024,09:35,FD359,Thai AirAsia,Bangkok (Don Mueang) (DMK),T4,,On Schedule
+04/04/2024,09:40,PR511,Philippine Airlines,Manila (MNL),T1,,Cancelled
+04/04/2024,09:45,EY496,Etihad Airways,Abu Dhabi (AUH),T2,,On Schedule
+04/04/2024,09:50,AK705,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,09:50,QZ262,Indonesia AirAsia,Jakarta (CGK),T4,,On Schedule
+04/04/2024,09:55,QZ502,Indonesia AirAsia,Bali-Denpasar (DPS),T4,,On Schedule
+04/04/2024,10:00,3K684,Jetstar Asia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,10:00,SQ949,Singapore Airlines,Bali-Denpasar (DPS),,,On Schedule
+04/04/2024,10:05,SQ103,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,10:15,MH611,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,10:15,VJ813,VietJet Air,Ho Chi Minh City (SGN),T4,,On Schedule
+04/04/2024,10:20,AK732,AirAsia,Langkawi (LGK),T4,,On Schedule
+04/04/2024,10:25,GA854,Garuda Indonesia,Surabaya (SUB),T3,,On Schedule
+04/04/2024,10:25,IX690,Air India Express,Tiruchirappalli (TRZ),T2,,On Schedule
+04/04/2024,10:30,6E1027,IndiGo,Hyderabad (HYD),T2,,On Schedule
+04/04/2024,10:30,TR397,Scoot,Manila (MNL),T1,,On Schedule
+04/04/2024,10:40,ID7153,Batik Air,Jakarta (CGK),T3,,On Schedule
+04/04/2024,10:40,UK111,Vistara,Pune (PNQ),T3,,On Schedule
+04/04/2024,10:45,8B151,TransNusa,Jakarta (CGK),T2,,On Schedule
+04/04/2024,10:45,QZ658,Indonesia AirAsia,Yogyakarta (YIA),T4,,On Schedule
+04/04/2024,10:45,SQ953,Singapore Airlines,Jakarta (CGK),,,On Schedule
+04/04/2024,10:50,AK707,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,10:55,AK1721,AirAsia,Penang (PEN),T4,,On Schedule
+04/04/2024,11:00,AK1311,AirAsia,Ipoh (IPH),T4,,On Schedule
+04/04/2024,11:00,GA828,Garuda Indonesia,Jakarta (CGK),T3,,On Schedule
+04/04/2024,11:00,ZH9025,Shenzhen Airlines,Shenzhen (SZX),T1,,On Schedule
+04/04/2024,11:10,SL100,Thai Lion Air,Bangkok (Don Mueang) (DMK),T3,,On Schedule
+04/04/2024,11:15,AK1775,AirAsia,Kuching (KCH),T4,,On Schedule
+04/04/2024,11:15,TG403,Thai Airways,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,11:15,TR631,Scoot,Hat Yai (HDY),T1,,On Schedule
+04/04/2024,11:20,QZ266,Indonesia AirAsia,Jakarta (CGK),T4,,On Schedule
+04/04/2024,11:20,SQ915,Singapore Airlines,Manila (MNL),,,On Schedule
+04/04/2024,11:20,SQ991,Singapore Airlines,Medan (KNO),,,On Schedule
+04/04/2024,11:25,MH627,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,11:30,AK1793,AirAsia,Kota Kinabalu (BKI),T4,,On Schedule
+04/04/2024,11:30,OD803,Batik Air Malaysia,Kuala Lumpur (KUL),T3,,On Schedule
+04/04/2024,11:35,SQ105,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,11:35,TR685,Scoot,Krabi (KBV),T1,,On Schedule
+04/04/2024,11:40,AK1717,AirAsia,Langkawi (LGK),T4,,On Schedule
+04/04/2024,11:40,MU5081,China Eastern Airlines,Kunming (KMG),T3,,On Schedule
+04/04/2024,11:40,SQ131,Singapore Airlines,Penang (PEN),,,On Schedule
+04/04/2024,11:45,QZ504,Indonesia AirAsia,Bali-Denpasar (DPS),T4,,On Schedule
+04/04/2024,11:45,SQ224,Singapore Airlines,Perth (PER),,,On Schedule
+04/04/2024,11:45,SQ897,Singapore Airlines,Hong Kong (HKG),,,On Schedule
+04/04/2024,11:55,BY426,TUI Airways,Birmingham (BHX),T2,,On Schedule
+04/04/2024,11:55,CX691,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,11:55,TR305,Scoot,Ho Chi Minh City (SGN),T1,,On Schedule
+04/04/2024,11:55,VN661,Vietnam Airlines,Hanoi (HAN),T3,,On Schedule
+04/04/2024,12:00,BR225,EVA Air,Taipei (TPE),T3,,On Schedule
+04/04/2024,12:00,UB1,Myanmar National Airlines,Yangon (RGN),T3,,On Schedule
+04/04/2024,12:05,VJ811,VietJet Air,Ho Chi Minh City (SGN),T4,,On Schedule
+04/04/2024,12:10,TR609,Scoot,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,12:10,VN651,Vietnam Airlines,Ho Chi Minh City (SGN),T3,,On Schedule
+04/04/2024,12:15,GF165,Gulf Air,Bahrain (BAH),T3,,On Schedule
+04/04/2024,12:15,SQ107,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,12:20,TR659,Scoot,Phuket (HKT),T1,,On Schedule
+04/04/2024,12:25,CX759,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,12:30,CZ353,China Southern Airlines,Guangzhou (CAN),T1,,On Schedule
+04/04/2024,12:35,CI753,China Airlines,Taipei (TPE),T3,,On Schedule
+04/04/2024,12:40,3K202,Jetstar Asia,Jakarta (CGK),T4,,On Schedule
+04/04/2024,12:40,ID7147,Batik Air,Medan (KNO),T3,,On Schedule
+04/04/2024,12:40,JX771,STARLUX Airlines,Taipei (TPE),T1,,On Schedule
+04/04/2024,12:40,SQ153,Singapore Airlines,Phnom Penh (PNH),,,On Schedule
+04/04/2024,12:40,TR275,Scoot,Jakarta (CGK),T1,,On Schedule
+04/04/2024,12:45,FD376,Thai AirAsia,Phuket (HKT),T4,,On Schedule
+04/04/2024,12:50,3K512,Jetstar Asia,Bangkok (Suvarnabhumi) (BKK),T4,,On Schedule
+04/04/2024,12:50,8M231,Myanmar Airways International,Yangon (RGN),T1,,On Schedule
+04/04/2024,12:50,TR427,Scoot,Penang (PEN),T1,,On Schedule
+04/04/2024,12:55,MH603,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,12:55,SQ615,Singapore Airlines,Busan (PUS),,,On Schedule
+04/04/2024,12:55,TR453,Scoot,Kuala Lumpur (KUL),T1,,On Schedule
+04/04/2024,13:00,AK711,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,13:00,SQ899,Singapore Airlines,Hong Kong (HKG),,,On Schedule
+04/04/2024,13:05,SQ705,Singapore Airlines,Bangkok (Suvarnabhumi) (BKK),,,On Schedule
+04/04/2024,13:05,SQ725,Singapore Airlines,Phuket (HKT),,,On Schedule
+04/04/2024,13:05,SQ935,Singapore Airlines,Bali-Denpasar (DPS),,,On Schedule
+04/04/2024,13:15,PR507,Philippine Airlines,Manila (MNL),T1,,On Schedule
+04/04/2024,13:15,TR117,Scoot,Zhengzhou (CGO),T1,,On Schedule
+04/04/2024,13:20,AK1723,AirAsia,Penang (PEN),T4,,On Schedule
+04/04/2024,13:25,OQ2095,Chongqing Airlines,Chongqing (CKG),T1,,On Schedule
+04/04/2024,13:25,SQ827,Singapore Airlines,Shanghai (PVG),,,On Schedule
+04/04/2024,13:30,SQ923,Singapore Airlines,Surabaya (SUB),,,On Schedule
+04/04/2024,13:30,TR281,Scoot,Bali-Denpasar (DPS),T1,,On Schedule
+04/04/2024,13:35,TR263,Scoot,Surabaya (SUB),T1,,On Schedule
+04/04/2024,13:40,AK713,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,13:40,FD336,Thai AirAsia,Hat Yai (HDY),T4,,On Schedule
+04/04/2024,13:40,MF863,Xiamen Airlines,Hangzhou (HGH),T1,,On Schedule
+04/04/2024,13:40,SQ133,Singapore Airlines,Penang (PEN),,,On Schedule
+04/04/2024,13:45,ID7155,Batik Air,Jakarta (CGK),T3,,On Schedule
+04/04/2024,13:45,TR201,Scoot,Yogyakarta (YIA),T1,,On Schedule
+04/04/2024,13:50,BR215,EVA Air,Taipei (TPE),T3,,On Schedule
+04/04/2024,13:50,MF851,Xiamen Airlines,Xiamen (XMN),T1,,On Schedule
+04/04/2024,13:50,TR253,Scoot,Pekanbaru (PKU),T1,,On Schedule
+04/04/2024,13:55,3K792,Jetstar Asia,Okinawa (OKA),T4,,On Schedule
+04/04/2024,13:55,VJ915,VietJet Air,Hanoi (HAN),T4,,On Schedule
+04/04/2024,14:00,MF865,Xiamen Airlines,Fuzhou (FOC),T1,,On Schedule
+04/04/2024,14:00,QZ264,Indonesia AirAsia,Jakarta (CGK),T4,,On Schedule
+04/04/2024,14:05,FD357,Thai AirAsia,Bangkok (Don Mueang) (DMK),T4,,On Schedule
+04/04/2024,14:05,SQ957,Singapore Airlines,Jakarta (CGK),,,On Schedule
+04/04/2024,14:15,3K762,Jetstar Asia,Manila (MNL),T4,,On Schedule
+04/04/2024,14:15,SQ163,Singapore Airlines,Siem Reap (SAI),,,On Schedule
+04/04/2024,14:15,SQ212,Singapore Airlines,Sydney (SYD),,,On Schedule
+04/04/2024,14:15,TR625,Scoot,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,14:20,SQ147,Singapore Airlines,Brunei (BWN),,,On Schedule
+04/04/2024,14:20,SQ607,Singapore Airlines,Seoul (ICN),,,On Schedule
+04/04/2024,14:20,TR809,Scoot,Tokyo (Narita) (NRT),T1,,On Schedule
+04/04/2024,14:25,TR491,Scoot,Kota Kinabalu (BKI),T1,,On Schedule
+04/04/2024,14:30,TG413,Thai Airways,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,14:30,TR233,Scoot,Makassar (UPG),T1,,On Schedule
+04/04/2024,14:30,TR485,Scoot,Ipoh (IPH),T1,,On Schedule
+04/04/2024,14:35,GA832,Garuda Indonesia,Jakarta (CGK),T3,,On Schedule
+04/04/2024,14:40,AK1773,AirAsia,Kuching (KCH),T4,,On Schedule
+04/04/2024,14:40,BG584,Biman Bangladesh Airlines,Dhaka (DAC),T3,,On Schedule
+04/04/2024,14:40,MH623,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,14:40,TR101,Scoot,Guangzhou (CAN),T1,,On Schedule
+04/04/2024,14:45,HO1601,Juneyao Airlines,Shanghai (PVG),T4,,On Schedule
+04/04/2024,14:50,ET638,Ethiopian Airlines,Addis Ababa (ADD),T2,,On Schedule
+04/04/2024,14:50,TR187,Scoot,Qingdao (TAO),T1,,On Schedule
+04/04/2024,14:50,TR277,Scoot,Jakarta (CGK),T1,,On Schedule
+04/04/2024,14:55,SQ727,Singapore Airlines,Phuket (HKT),,,On Schedule
+04/04/2024,14:55,SQ937,Singapore Airlines,Bali-Denpasar (DPS),,,On Schedule
+04/04/2024,15:00,CA403,Air China,Chengdu (TFU),T1,,On Schedule
+04/04/2024,15:00,EK354,Emirates,Dubai (DXB),T1,,On Schedule
+04/04/2024,15:00,SQ655,Singapore Airlines,Fukuoka (FUK),,,On Schedule
+04/04/2024,15:05,CX739,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,15:05,ID7151,Batik Air,Jakarta (CGK),T3,,On Schedule
+04/04/2024,15:10,SQ278,Singapore Airlines,Adelaide (ADL),,,On Schedule
+04/04/2024,15:10,TR119,Scoot,Haikou (HAK),T1,,On Schedule
+04/04/2024,15:10,TR979,Scoot,Hong Kong (HKG),T1,,On Schedule
+04/04/2024,15:15,SQ631,Singapore Airlines,Tokyo (Haneda) (HND),,,On Schedule
+04/04/2024,15:20,SQ761,Singapore Airlines,Yangon (RGN),,,On Schedule
+04/04/2024,15:25,3U3909,Sichuan Airlines,Chengdu (TFU),T2,,On Schedule
+04/04/2024,15:25,CX717,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,15:25,SQ238,Singapore Airlines,Melbourne (MEL),,,On Schedule
+04/04/2024,15:30,KL835,KLM Royal Dutch Airlines,Amsterdam (AMS),T1,,On Schedule
+04/04/2024,15:30,QZ500,Indonesia AirAsia,Bali-Denpasar (DPS),T4,,On Schedule
+04/04/2024,15:30,SQ177,Singapore Airlines,Ho Chi Minh City (SGN),,,On Schedule
+04/04/2024,15:30,SQ256,Singapore Airlines,Brisbane (BNE),,,On Schedule
+04/04/2024,15:30,TR139,Scoot,Tianjin (TSN),T1,,On Schedule
+04/04/2024,15:35,MH619,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,15:35,MU567,China Eastern Airlines,Shanghai (PVG),T3,,On Schedule
+04/04/2024,15:40,AK715,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,15:40,SQ707,Singapore Airlines,Bangkok (Suvarnabhumi) (BKK),,,On Schedule
+04/04/2024,15:45,QR948,Qatar Airways,Doha (DOH),T1,,On Schedule
+04/04/2024,15:50,SQ113,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,15:50,SQ939,Singapore Airlines,Bali-Denpasar (DPS),,,On Schedule
+04/04/2024,16:00,CA825,Air China,Shanghai (PVG),T1,,On Schedule
+04/04/2024,16:00,NX908,Air Macau,Macau (MFM),T2,,On Schedule
+04/04/2024,16:00,SQ671,Singapore Airlines,Nagoya (NGO),,,On Schedule
+04/04/2024,16:05,BA11,British Airways,London (Heathrow) (LHR),T1,,On Schedule
+04/04/2024,16:05,SQ325,Singapore Airlines,Frankfurt (FRA),,,On Schedule
+04/04/2024,16:10,OD807,Batik Air Malaysia,Kuala Lumpur (KUL),T3,,On Schedule
+04/04/2024,16:15,TR843,Scoot,Seoul (ICN),T1,,On Schedule
+04/04/2024,16:20,LH778,Lufthansa,Frankfurt (FRA),T2,,On Schedule
+04/04/2024,16:20,SQ875,Singapore Airlines,Hong Kong (HKG),,,On Schedule
+04/04/2024,16:25,CA449,Air China,Chongqing (CKG),T1,,On Schedule
+04/04/2024,16:25,PG963,Bangkok Airways,Koh Samui (USM),T1,,On Schedule
+04/04/2024,16:30,AF256,Air France,Paris (CDG),T1,,On Schedule
+04/04/2024,16:35,FD355,Thai AirAsia,Bangkok (Don Mueang) (DMK),T4,,On Schedule
+04/04/2024,16:35,LH790,Lufthansa,Munich (MUC),T2,,On Schedule
+04/04/2024,16:40,3K248,Jetstar Asia,Surabaya (SUB),T4,,On Schedule
+04/04/2024,16:40,3K686,Jetstar Asia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,16:40,QZ506,Indonesia AirAsia,Bali-Denpasar (DPS),T4,,On Schedule
+04/04/2024,16:40,SQ619,Singapore Airlines,Osaka (KIX),,,On Schedule
+04/04/2024,16:40,TR385,Scoot,Cebu (CEB),T1,,On Schedule
+04/04/2024,16:40,ZH9023,Shenzhen Airlines,Shenzhen (SZX),T1,,On Schedule
+04/04/2024,16:45,SQ21,Singapore Airlines,New York (Newark) (EWR),,,On Schedule
+04/04/2024,16:50,CZ3039,China Southern Airlines,Guangzhou (CAN),T1,,On Schedule
+04/04/2024,16:50,NZ284,Air New Zealand,Auckland (AKL),T3,,On Schedule
+04/04/2024,16:50,QF291,Qantas Airways,Sydney (SYD),T1,,On Schedule
+04/04/2024,16:50,SQ611,Singapore Airlines,Seoul (ICN),,,On Schedule
+04/04/2024,16:55,LX176,SWISS International Airlines,Zurich (ZRH),T2,,On Schedule
+04/04/2024,16:55,SQ135,Singapore Airlines,Penang (PEN),,,On Schedule
+04/04/2024,16:55,SQ319,Singapore Airlines,London (Heathrow) (LHR),,,On Schedule
+04/04/2024,16:55,VJ973,VietJet Air,Da Nang (DAD),T4,,On Schedule
+04/04/2024,17:05,SQ191,Singapore Airlines,Hanoi (HAN),,,On Schedule
+04/04/2024,17:05,TG407,Thai Airways,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,17:05,TR351,Scoot,Vientiane (VTE),T1,,On Schedule
+04/04/2024,17:10,3K242,Jetstar Asia,Bali-Denpasar (DPS),T4,,On Schedule
+04/04/2024,17:10,AK1725,AirAsia,Penang (PEN),T4,,On Schedule
+04/04/2024,17:10,CI757,China Airlines,Kaohsiung (KHH),T3,,On Schedule
+04/04/2024,17:10,SQ155,Singapore Airlines,Phnom Penh (PNH),,,On Schedule
+04/04/2024,17:10,SQ959,Singapore Airlines,Jakarta (CGK),,,On Schedule
+04/04/2024,17:10,TR285,Scoot,Bali-Denpasar (DPS),T1,,On Schedule
+04/04/2024,17:15,NH841,All Nippon Airways,Tokyo (Haneda) (HND),T2,,On Schedule
+04/04/2024,17:20,6E1011,IndiGo,Mumbai (BOM),T2,,On Schedule
+04/04/2024,17:20,QF51,Qantas Airways,Brisbane (BNE),T1,,On Schedule
+04/04/2024,17:20,SQ637,Singapore Airlines,Tokyo (Narita) (NRT),,,On Schedule
+04/04/2024,17:25,5J805,Cebu Pacific Air,Manila (MNL),T4,,On Schedule
+04/04/2024,17:25,QF2,Qantas Airways,London (Heathrow) (LHR),T1,,On Schedule
+04/04/2024,17:25,SQ401,Singapore Airlines,New Delhi (DEL),,,On Schedule
+04/04/2024,17:25,VN655,Vietnam Airlines,Ho Chi Minh City (SGN),T3,,On Schedule
+04/04/2024,17:30,MH605,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,17:30,SQ232,Singapore Airlines,Sydney (SYD),,,On Schedule
+04/04/2024,17:30,SQ331,Singapore Airlines,Paris (CDG),,,On Schedule
+04/04/2024,17:35,JL37,Japan Airlines,Tokyo (Haneda) (HND),T1,,On Schedule
+04/04/2024,17:40,SQ298,Singapore Airlines,Christchurch (CHC),,,On Schedule
+04/04/2024,17:40,SQ525,Singapore Airlines,Chennai (MAA),,,On Schedule
+04/04/2024,17:45,6E1013,IndiGo,New Delhi (DEL),T2,,On Schedule
+04/04/2024,17:45,BA15,British Airways,London (Heathrow) (LHR),T1,,On Schedule
+04/04/2024,17:45,SQ851,Singapore Airlines,Guangzhou (CAN),,,On Schedule
+04/04/2024,17:45,TR157,Scoot,Shenyang (SHE),T1,,On Schedule
+04/04/2024,17:45,TR301,Scoot,Hanoi (HAN),T1,,On Schedule
+04/04/2024,17:50,SQ917,Singapore Airlines,Manila (MNL),,,On Schedule
+04/04/2024,17:55,GA842,Garuda Indonesia,Bali-Denpasar (DPS),T3,,On Schedule
+04/04/2024,18:00,JQ7,Jetstar International,Melbourne (MEL),T4,,On Schedule
+04/04/2024,18:00,QF71,Qantas Airways,Perth (PER),T1,,On Schedule
+04/04/2024,18:05,AI346,Air India,Chennai (MAA),T2,,On Schedule
+04/04/2024,18:10,3K834,Jetstar Asia,Wuxi (WUX),T4,,On Schedule
+04/04/2024,18:10,SQ115,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,18:10,SQ321,Singapore Airlines,London (Heathrow) (LHR),,,On Schedule
+04/04/2024,18:10,SQ731,Singapore Airlines,Phuket (HKT),,,On Schedule
+04/04/2024,18:15,MH613,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,18:15,QF35,Qantas Airways,Melbourne (MEL),T1,,On Schedule
+04/04/2024,18:20,SQ883,Singapore Airlines,Hong Kong (HKG),,,On Schedule
+04/04/2024,18:20,TR307,Scoot,Ho Chi Minh City (SGN),T1,,On Schedule
+04/04/2024,18:20,TR425,Scoot,Penang (PEN),T1,,On Schedule
+04/04/2024,18:25,CX735,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,18:25,GA836,Garuda Indonesia,Jakarta (CGK),T3,,On Schedule
+04/04/2024,18:30,AK717,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,18:35,AY131,Finnair,Helsinki (HEL),T1,,On Schedule
+04/04/2024,18:35,TR487,Scoot,Ipoh (IPH),T1,,On Schedule
+04/04/2024,18:40,TR19,Scoot,Melbourne (MEL),T1,,On Schedule
+04/04/2024,18:40,TR415,Scoot,Miri (MYY),,,On Schedule
+04/04/2024,18:45,3K594,Jetstar Asia,Phnom Penh (PNH),T4,,Cancelled
+04/04/2024,18:45,UA29,United Airlines,San Francisco (SFO),T2,,On Schedule
+04/04/2024,18:55,SQ709,Singapore Airlines,Bangkok (Suvarnabhumi) (BKK),,,On Schedule
+04/04/2024,18:55,SQ877,Singapore Airlines,Taipei (TPE),,,On Schedule
+04/04/2024,18:55,UL308,SriLankan Airlines,Colombo (CMB),T3,,On Schedule
+04/04/2024,18:40,TR419,Scoot,Miri (MYY),T1,,On Schedule
+04/04/2024,19:00,3K536,Jetstar Asia,Phuket (HKT),T4,,On Schedule
+04/04/2024,19:00,QZ260,Indonesia AirAsia,Jakarta (CGK),T4,,On Schedule
+04/04/2024,19:00,SQ252,Singapore Airlines,Darwin (DRW),,,On Schedule
+04/04/2024,19:00,SQ509,Singapore Airlines,Bengaluru (BLR),,,On Schedule
+04/04/2024,19:00,TR605,Scoot,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,19:10,CX635,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,19:10,SQ226,Singapore Airlines,Perth (PER),,,On Schedule
+04/04/2024,19:10,SQ31,Singapore Airlines,San Francisco (SFO),,,On Schedule
+04/04/2024,19:15,BY58,TUI Airways,London (Gatwick) (LGW),T2,,On Schedule
+04/04/2024,19:15,SQ901,Singapore Airlines,Cebu (CEB),,,On Schedule
+04/04/2024,19:20,PG961,Bangkok Airways,Koh Samui (USM),T1,,On Schedule
+04/04/2024,19:20,PX392,Air Niugini,Port Moresby (POM),T1,,On Schedule
+04/04/2024,19:25,SQ137,Singapore Airlines,Penang (PEN),,,On Schedule
+04/04/2024,19:25,SQ165,Singapore Airlines,Siem Reap (SAI),,,On Schedule
+04/04/2024,19:30,TR473,Scoot,Kuala Lumpur (KUL),T1,,On Schedule
+04/04/2024,19:35,SQ893,Singapore Airlines,Hong Kong (HKG),,,On Schedule
+04/04/2024,19:40,CZ8047,China Southern Airlines,Shenzhen (SZX),T1,,On Schedule
+04/04/2024,19:40,TG409,Thai Airways,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,19:45,QG526,Citilink,Jakarta (CGK),T3,,On Schedule
+04/04/2024,19:50,SQ121,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,19:50,SQ421,Singapore Airlines,Mumbai (BOM),,,On Schedule
+04/04/2024,19:50,SQ831,Singapore Airlines,Shanghai (PVG),,,On Schedule
+04/04/2024,19:50,SQ961,Singapore Airlines,Jakarta (CGK),,,On Schedule
+04/04/2024,19:55,8M233,Myanmar Airways International,Yangon (RGN),T1,,On Schedule
+04/04/2024,19:55,KE643,Korean Air,Seoul (ICN),T4,,On Schedule
+04/04/2024,19:55,SQ927,Singapore Airlines,Surabaya (SUB),,,On Schedule
+04/04/2024,19:55,TR675,Scoot,Chiang Mai (CNX),T1,,On Schedule
+04/04/2024,20:00,AK719,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,20:00,GF166,Gulf Air,Bangkok (Suvarnabhumi) (BKK),T3,,On Schedule
+04/04/2024,20:05,FD351,Thai AirAsia,Bangkok (Don Mueang) (DMK),T4,,On Schedule
+04/04/2024,20:10,MU565,China Eastern Airlines,Shanghai (PVG),T3,,On Schedule
+04/04/2024,20:15,PR501,Philippine Airlines,Manila (MNL),T1,,Re-timed
+04/04/2024,20:20,UK107,Vistara,Mumbai (BOM),T3,,On Schedule
+04/04/2024,20:25,3K516,Jetstar Asia,Bangkok (Suvarnabhumi) (BKK),T4,,On Schedule
+04/04/2024,20:25,MH607,Malaysia Airlines,Kuala Lumpur (KUL),T2,,On Schedule
+04/04/2024,20:25,TR303,Scoot,Ho Chi Minh City (SGN),T1,,On Schedule
+04/04/2024,20:25,TR469,Scoot,Kuala Lumpur (KUL),T1,,On Schedule
+04/04/2024,20:30,BI423,Royal Brunei Airlines,Brunei (BWN),T2,,On Schedule
+04/04/2024,20:30,SQ173,Singapore Airlines,Da Nang (DAD),,,On Schedule
+04/04/2024,20:30,SQ919,Singapore Airlines,Manila (MNL),,,On Schedule
+04/04/2024,20:30,TR899,Scoot,Tokyo (Narita) (NRT),T1,,On Schedule
+04/04/2024,20:35,CX711,Cathay Pacific,Hong Kong (HKG),T4,,On Schedule
+04/04/2024,20:35,ID7159,Batik Air,Jakarta (CGK),T3,,On Schedule
+04/04/2024,20:40,OD805,Batik Air Malaysia,Kuala Lumpur (KUL),T3,,On Schedule
+04/04/2024,20:45,AK721,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,20:45,QR944,Qatar Airways,Doha (DOH),T1,,On Schedule
+04/04/2024,20:45,SQ236,Singapore Airlines,Brisbane (BNE),,,On Schedule
+04/04/2024,20:50,IX684,Air India Express,Madurai (IXM),T2,,On Schedule
+04/04/2024,20:55,SQ963,Singapore Airlines,Jakarta (CGK),,,On Schedule
+04/04/2024,21:00,9C8549,Spring Airlines,Shanghai (PVG),T4,,On Schedule
+04/04/2024,21:00,AK1729,AirAsia,Penang (PEN),T4,,On Schedule
+04/04/2024,21:00,SQ286,Singapore Airlines,Auckland (AKL),,,On Schedule
+04/04/2024,21:00,SQ431,Singapore Airlines,Male (MLE),,,On Schedule
+04/04/2024,21:05,BA16,British Airways,Sydney (SYD),T1,,On Schedule
+04/04/2024,21:05,SQ735,Singapore Airlines,Phuket (HKT),,,On Schedule
+04/04/2024,21:05,TR611,Scoot,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,21:10,6E1003,IndiGo,Chennai (MAA),T2,,On Schedule
+04/04/2024,21:15,ID7157,Batik Air,Jakarta (CGK),T3,,On Schedule
+04/04/2024,21:20,QF1,Qantas Airways,Sydney (SYD),T1,,On Schedule
+04/04/2024,21:20,SQ222,Singapore Airlines,Sydney (SYD),,,On Schedule
+04/04/2024,21:25,SQ157,Singapore Airlines,Phnom Penh (PNH),,,On Schedule
+04/04/2024,21:25,TR361,Scoot,Davao (DVO),T1,,On Schedule
+04/04/2024,21:30,3K764,Jetstar Asia,Osaka (KIX),T4,,On Schedule
+04/04/2024,21:30,OZ751,Asiana Airlines,Seoul (ICN),T3,,On Schedule
+04/04/2024,21:30,SQ228,Singapore Airlines,Melbourne (MEL),,,On Schedule
+04/04/2024,21:40,HO1605,Juneyao Airlines,Shanghai (PVG),T4,,On Schedule
+04/04/2024,21:45,AI382,Air India,New Delhi (DEL),T2,,On Schedule
+04/04/2024,21:45,EK352,Emirates,Dubai (DXB),T1,,On Schedule
+04/04/2024,21:45,GA822,Garuda Indonesia,Jakarta (CGK),T3,,On Schedule
+04/04/2024,21:45,TR819,Scoot,Osaka (KIX),T1,,On Schedule
+04/04/2024,21:50,SQ125,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,21:50,SQ965,Singapore Airlines,Jakarta (CGK),,,On Schedule
+04/04/2024,21:55,CA969,Air China,Beijing (Capital) (PEK),T1,,On Schedule
+04/04/2024,21:55,MU545,China Eastern Airlines,Shanghai (PVG),T3,,On Schedule
+04/04/2024,21:55,SQ711,Singapore Airlines,Bangkok (Suvarnabhumi) (BKK),,,On Schedule
+04/04/2024,22:00,AK1727,AirAsia,Penang (PEN),T4,,On Schedule
+04/04/2024,22:00,SQ601,Singapore Airlines,Seoul (ICN),,,On Schedule
+04/04/2024,22:00,SQ929,Singapore Airlines,Surabaya (SUB),,,On Schedule
+04/04/2024,22:05,QF37,Qantas Airways,Melbourne (MEL),T1,,On Schedule
+04/04/2024,22:10,3K246,Jetstar Asia,Bali-Denpasar (DPS),T4,,On Schedule
+04/04/2024,22:10,TR287,Scoot,Bali-Denpasar (DPS),T1,,On Schedule
+04/04/2024,22:15,MF885,Xiamen Airlines,Xiamen (XMN),T1,,On Schedule
+04/04/2024,22:15,SQ879,Singapore Airlines,Taipei (TPE),,,On Schedule
+04/04/2024,22:20,SQ833,Singapore Airlines,Shanghai (PVG),,,On Schedule
+04/04/2024,22:20,SQ921,Singapore Airlines,Manila (MNL),,,On Schedule
+04/04/2024,22:25,TR181,Scoot,Nanjing (NKG),T1,,On Schedule
+04/04/2024,22:25,TR905,Scoot,Macau (MFM),T1,,On Schedule
+04/04/2024,22:30,3K688,Jetstar Asia,Kuala Lumpur (KUL),T4,,Re-timed
+04/04/2024,22:30,CZ351,China Southern Airlines,Guangzhou (CAN),T1,,On Schedule
+04/04/2024,22:30,TG401,Thai Airways,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,22:35,SQ214,Singapore Airlines,Perth (PER),,,On Schedule
+04/04/2024,22:35,SQ995,Singapore Airlines,Medan (KNO),,,On Schedule
+04/04/2024,22:40,SQ141,Singapore Airlines,Penang (PEN),,,On Schedule
+04/04/2024,22:40,SQ185,Singapore Airlines,Ho Chi Minh City (SGN),,,On Schedule
+04/04/2024,22:40,SQ895,Singapore Airlines,Hong Kong (HKG),,,On Schedule
+04/04/2024,22:40,SQ945,Singapore Airlines,Bali-Denpasar (DPS),,,On Schedule
+04/04/2024,22:45,AK723,AirAsia,Kuala Lumpur (KUL),T4,,On Schedule
+04/04/2024,22:55,SQ127,Singapore Airlines,Kuala Lumpur (KUL),,,On Schedule
+04/04/2024,22:55,TR279,Scoot,Jakarta (CGK),T1,,On Schedule
+04/04/2024,23:00,SQ193,Singapore Airlines,Hanoi (HAN),,,On Schedule
+04/04/2024,23:00,SQ807,Singapore Airlines,Beijing (Capital) (PEK),,,On Schedule
+04/04/2024,23:00,TR653,Scoot,Phuket (HKT),T1,,On Schedule
+04/04/2024,23:05,SQ621,Singapore Airlines,Osaka (KIX),,,On Schedule
+04/04/2024,23:05,SQ633,Singapore Airlines,Tokyo (Haneda) (HND),,,On Schedule
+04/04/2024,23:10,KL836,KLM Royal Dutch Airlines,Bali-Denpasar (DPS),T1,,On Schedule
+04/04/2024,23:10,ZG53,ZIPAIR,Tokyo (Narita) (NRT),T1,,On Schedule
+04/04/2024,23:15,PR509,Philippine Airlines,Manila (MNL),T1,,On Schedule
+04/04/2024,23:15,SQ739,Singapore Airlines,Phuket (HKT),,,On Schedule
+04/04/2024,23:15,TR391,Scoot,Manila (MNL),T1,,On Schedule
+04/04/2024,23:20,IX682,Air India Express,Tiruchirappalli (TRZ),T2,,On Schedule
+04/04/2024,23:20,TR177,Scoot,Ningbo (NGB),T1,,On Schedule
+04/04/2024,23:20,TR9,Scoot,Perth (PER),T1,,On Schedule
+04/04/2024,23:30,SQ713,Singapore Airlines,Bangkok (Suvarnabhumi) (BKK),,,On Schedule
+04/04/2024,23:35,7C4055,Jeju Air,Busan (PUS),T4,,On Schedule
+04/04/2024,23:35,TR429,Scoot,Penang (PEN),T1,,On Schedule
+04/04/2024,23:35,TR467,Scoot,Kuala Lumpur (KUL),T1,,On Schedule
+04/04/2024,23:40,KE645,Korean Air,Seoul (ICN),T4,,On Schedule
+04/04/2024,23:40,MU5031,China Eastern Airlines,Beijing (Daxing) (PKX),T3,,On Schedule
+04/04/2024,23:45,TR617,Scoot,Bangkok (Suvarnabhumi) (BKK),T1,,On Schedule
+04/04/2024,23:50,TR435,Scoot,Kuching (KCH),T1,,On Schedule
