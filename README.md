@@ -2,7 +2,7 @@
 The scripts scrape the arrival and departure flight schedule on specified dates. The scripts run with Selenium and BeautifulSoup
 
 ## Description:
-For this project, I developed a robust solution to collect and organize flight schedule data from Changi Airport's website. Leveraging Python libraries BeautifulSoup and Selenium, I implemented a web scraping tool capable of extracting essential information such as date, time, flight number, airline name, airport name, and boarding status.
+For this project, I developed a robust solution to collect and organize flight schedule data from Changi Airport's website. Leveraging **Python** libraries **BeautifulSoup** and **Selenium**, I implemented a web scraping tool capable of extracting essential information such as date, time, flight number, airline name, airport name, and boarding status.
 
 ## Challenge:
 Changi Airport's website provided valuable real-time flight information but lacked an easy-to-access data export feature. Manual data collection was time-consuming and prone to errors, necessitating an automated solution to streamline the process.
